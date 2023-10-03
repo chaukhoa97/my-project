@@ -1,0 +1,28 @@
+{
+  "results": [
+    // Trimmed
+    {
+      "name": "Leontine",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg",
+      "email": "leontine.aanen@example.com",
+      "phone": "(0185) 142249",
+      "id": "BSN-36364993"
+    },
+    // Full
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "brad",
+        "last": "gibson"
+      },
+      "email": "abe.aca@example.com",
+      "phone": "12345678",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      }
+    }
+  ]
+}
